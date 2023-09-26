@@ -1,0 +1,7 @@
+.hypothesis/
+.idea/
+.pytest_cache/
+.venv/
+__pycache__/
+
+*~
